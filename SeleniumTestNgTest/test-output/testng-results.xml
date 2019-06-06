@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="77" started-at="2019-01-09T14:18:28Z" finished-at="2019-01-09T14:18:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="77" started-at="2019-01-09T14:18:28Z" finished-at="2019-01-09T14:18:28Z">
+      <class name="com.testngtest.customer.sampleTest1">
+        <test-method status="PASS" signature="ConfigBC()[pri:0, instance:com.testngtest.customer.sampleTest1@4501b7af]" name="ConfigBC" is-config="true" duration-ms="15" started-at="2019-01-09T14:18:28Z" finished-at="2019-01-09T14:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBC -->
+        <test-method status="PASS" signature="ConfigAM()[pri:0, instance:com.testngtest.customer.sampleTest1@4501b7af]" name="ConfigAM" duration-ms="0" started-at="2019-01-09T14:18:28Z" finished-at="2019-01-09T14:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAM -->
+        <test-method status="PASS" signature="ConfigBM()[pri:0, instance:com.testngtest.customer.sampleTest1@4501b7af]" name="ConfigBM" is-config="true" duration-ms="0" started-at="2019-01-09T14:18:28Z" finished-at="2019-01-09T14:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigBM -->
+        <test-method status="PASS" signature="ConfigAC()[pri:0, instance:com.testngtest.customer.sampleTest1@4501b7af]" name="ConfigAC" is-config="true" duration-ms="16" started-at="2019-01-09T14:18:28Z" finished-at="2019-01-09T14:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ConfigAC -->
+      </class> <!-- com.testngtest.customer.sampleTest1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
